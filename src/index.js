@@ -60,7 +60,7 @@ function Board() {
 function Game() {
   return (
     <div className="game">
-     BINGO-GAME
+     XOX-GAME
       <Board />
     </div>
   );
